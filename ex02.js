@@ -18,14 +18,6 @@ for(i=0;i<value.length;i++){
         else if (oparetor[i-1]=='-') total-=parseInt(numstr[i]);
         else if (oparetor[i-1]=='*') total*=parseInt(numstr[i]);
     }
-    
-   
-
-    
-
-    
-
-
     return total;
 
 }
