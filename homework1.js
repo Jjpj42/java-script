@@ -25,3 +25,7 @@ function check(val01,val02){
 }
 
 check(value01,value02);
+console.log("-----------------------------------------------------------");
+check(value02,value03);
+console.log("-----------------------------------------------------------");
+check(value01,value03);
