@@ -8,11 +8,7 @@
 <body>
 <form method="get" action="lab6-11cal.php">
 <table border="1" align="center" width="500">
-<tr>
-<td colspan="2" align="center">
-<strong>Arithmatic Operator </strong>
-</td>
-<tr>
+
 <tr>
 <td>Enter Home work : </td>
 <td><input type="text" name="hw" size="15" value=""/> </td>
@@ -26,7 +22,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<input type="submit" value=" OK " />
+<input type="submit" value=" Send " />
 <input type="reset" value=" Clear " />
 </td>
 </tr>
